@@ -1,6 +1,6 @@
-# dwm-gele
+# dwm-slycro
 
-This is my own build of dwm by suckless.org.
+This is my own build of dwm by suckless.org. (inspired by dwm-gele)
 
 ## Dependencies
 
