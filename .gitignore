@@ -1,4 +1,5 @@
-dmenu
+dmenu/dmenu
+dmenu/.git
 dwm
-slstatus
+slstatus/slstatus
 *.o
